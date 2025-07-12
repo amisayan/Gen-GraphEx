@@ -1,4 +1,4 @@
-# Gen-GraphEx-Review
+# Gen-GraphEx
 Official Repository  of Gen-GraphEx
 # Guide to Running Jupyter Notebooks
 
